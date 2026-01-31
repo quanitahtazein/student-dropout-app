@@ -25,13 +25,21 @@ The university was losing students each semester. This system:
 
 Student_Dropout_Assignment/
 ├─ app.py # Streamlit app
+
 ├─ models/ # Trained ML models (.pkl)
+
 │ ├─ dropout_model.pkl
+
 │ ├─ dropout_model_dt.pkl
+
 │ ├─ dropout_model_rf.pkl
+
 │ └─ dropout_model_xgb.pkl
+
 ├─ requirements.txt # Python packages for Streamlit Cloud
+
 ├─ data/sample_input.csv # Example CSV for testing
+
 └─ README.md
 
 ---
