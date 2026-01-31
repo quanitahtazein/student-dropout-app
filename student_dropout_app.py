@@ -442,4 +442,4 @@ if uploaded_file:
     for i, v in enumerate(scores_list):
         plt.text(i, v+0.01, f"{v:.2f}", ha='center', fontweight='bold')
     st.pyplot(plt)
-
+    !pip freeze > requirements.txt
