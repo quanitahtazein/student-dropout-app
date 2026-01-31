@@ -23,6 +23,8 @@ The university was losing students each semester. This system:
 4. **Bar chart showing top features contributing to dropout risk**  
 5. **ROC AUC comparison of all models**
 
+## **Project Structure**
+
 Student_Dropout_Assignment/
 ├─ app.py # Streamlit app
 
@@ -41,9 +43,6 @@ Student_Dropout_Assignment/
 ├─ data/sample_input.csv # Example CSV for testing
 
 └─ README.md
-
----
-
 ## **Requirements**
 
 All Python packages needed are listed in `requirements.txt`:
