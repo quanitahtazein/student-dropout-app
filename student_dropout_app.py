@@ -443,3 +443,4 @@ if uploaded_file:
         plt.text(i, v+0.01, f"{v:.2f}", ha='center', fontweight='bold')
     st.pyplot(plt)
     !pip freeze > requirements.txt
+    !pip install streamlit pandas numpy scikit-learn xgboost matplotlib seaborn joblib
