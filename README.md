@@ -55,5 +55,3 @@ matplotlib==3.8.0
 seaborn==0.13.2
 joblib==1.3.2
 
-## **Project Structure**
-
